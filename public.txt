@@ -1,0 +1,7 @@
+My First Public GitHub Repository
+
+Hello! This is my first public repository created using Visual Studio Code and GitHub.
+
+Purpose: To learn how to create, manage, and publish repositories on GitHub.
+
+Visibility: Public
